@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- !{}(https://media.tenor.com/PKKCAakpBZIAAAAM/neyney-neymar.gif)
-- 
+
+-{}(https://media.tenor.com/f9eBb3LV0O8AAAAM/neymar-neymar-jr.gif)  
