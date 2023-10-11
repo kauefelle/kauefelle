@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--{}(https://media.tenor.com/f9eBb3LV0O8AAAAM/neymar-neymar-jr.gif)  
+-[](https://media.tenor.com/f9eBb3LV0O8AAAAM/neymar-neymar-jr.gif)  
